@@ -1,2 +1,2 @@
 # SERP SPAMBOT
-Spambot with GUI written in python
+Spambot with GUI written in Python
