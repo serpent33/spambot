@@ -8,8 +8,8 @@ Pip3
 python3-tk (Linux)
 
 ## INSTALL
--git clone https://github.com/serpent33/spambot.git 
--cd spambot 
--pip3 install -r requirements 
--python3 main.py
+< git clone https://github.com/serpent33/spambot.git 
+< cd spambot 
+< pip3 install -r requirements 
+< python3 main.py
 
