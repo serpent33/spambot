@@ -7,7 +7,7 @@ Python3
 Pip3
 python3-tk (Linux)
 
-## INSTALL
+## Install
 git clone https://github.com/serpent33/spambot.git >
 cd spambot >
 pip3 install -r requirements >
